@@ -1,0 +1,6 @@
+{
+  "name": "Relatório de Atendimento – Julho",
+  "description": "Apresentação executiva dos indicadores de volume, tempo de resposta e satisfação dos atendimentos de Julho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
